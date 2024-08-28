@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/callerMain.dir/caller.cpp.o CMakeFiles/callerMain.dir/__/__/src/common/util.cpp.o -o ../../../bin/callerMain   -L/home/MyRaft/lib  -Wl,-rpath,/home/MyRaft/lib ../../../lib/libskip_list_on_raft.a -lprotobuf -lboost_serialization -lmuduo_net -lmuduo_base -lpthread -ldl 
